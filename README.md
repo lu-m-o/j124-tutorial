@@ -14,3 +14,8 @@ I'm going to indent something:
 
 What is monospace?<br>
 <samp>What is monospace?</samp>
+
+## Rat dancing
+
+Here's a gif of a rat dancing:<br>
+![This is a gif of a rat wearing boots dancing](rat-dance-viral.gif)
